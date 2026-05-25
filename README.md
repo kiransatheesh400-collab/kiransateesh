@@ -1,19 +1,81 @@
 # kiransateesh
-<h1 align="center">Hi 👋, I'm kiransateesh</h1>
-<h3 align="center">A passionate AIML Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Kiran Sateesh</h1>
+<h3 align="center">Aspiring AI/ML Engineer from India</h3>
 
-- 🔭 I’m currently working on **Bike sale dashboard with excel**
+## 🏆 Badges
 
-- 🌱 I’m currently learning **python libraries and N8N**
+![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
-- 📫 How to reach me **kiransatheesh400@gmail.com**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-FF9F43?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![GitHub](https://img.shields.io/badge/GitHub-Active%20Learner-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Student](https://img.shields.io/badge/B.Tech-Student-8A2BE2?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiransatheesh400-collab&show_icons=true&locale=en&layout=compact" alt="kiransatheesh400-collab" /></p>
+---
+## 🚀 About Me
 
+🎓 B.Tech Student
+
+🤖 Aspiring AI/ML Engineer
+
+🌱 Currently Learning:
+- DSA in Python
+- AI Automation
+- NumPy
+- Pandas
+- Machine Learning
+
+💡 Interested In:
+- Artificial Intelligence
+- Machine Learning
+- Automation
+- Freelancing
+
+🎯 Goal:
+Become a skilled AI/ML Engineer and build impactful AI solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data & Analytics
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+🔹 AI Automation
+
+🔹 DSA in Python
+
+🔹 Data Analysis
+
+🔹 Machine Learning
+
+🔹 Deep Learning (Future)
+
+---
+
+## 🔥 Featured Projects
+
+📌 Excel Sales Dashboard
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/kiran-ulavala-8aaa68381
+📧 Email: kiransatheesh400@gmail.com
+
+---
+
+⭐ "Consistency beats talent when talent doesn't stay consistent."
