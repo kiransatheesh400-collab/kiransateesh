@@ -68,7 +68,7 @@ Become a skilled AI/ML Engineer and build impactful AI solutions.
 
 ## 🔥 Featured Projects
 
-📌 
+📌 AI Lead Qualification 
 ---
 
 ## 🌐 Connect With Me
