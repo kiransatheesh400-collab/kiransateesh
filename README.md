@@ -68,7 +68,7 @@ Become a skilled AI/ML Engineer and build impactful AI solutions.
 
 ## 🔥 Featured Projects
 
-📌 Excel Sales Dashboard
+📌 
 ---
 
 ## 🌐 Connect With Me
