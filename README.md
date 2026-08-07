@@ -19,18 +19,10 @@
 
 🤖 Aspiring AI/ML Engineer
 
-🌱 Currently Learning:
-- DSA in Python
-- AI Automation
-- NumPy
-- Pandas
-- Machine Learning
-
 💡 Interested In:
 - Artificial Intelligence
 - Machine Learning
-- Automation
-- Freelancing
+- Data Analysis
 
 🎯 Goal:
 Become a skilled AI/ML Engineer and build impactful AI solutions.
@@ -54,7 +46,6 @@ Become a skilled AI/ML Engineer and build impactful AI solutions.
 ---
 
 ## 📚 Currently Learning
-🔹 AI Automation
 
 🔹 DSA in Python
 
@@ -66,9 +57,14 @@ Become a skilled AI/ML Engineer and build impactful AI solutions.
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-📌 AI Lead Qualification 
+🔹Shopping Cart System
+
+🔹Bank Management System
+
+🔹Student Performance Analyzer
+
 ---
 
 ## 🌐 Connect With Me
