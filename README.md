@@ -1,4 +1,4 @@
-# kiransateesh
+# Kiran Ulavala
 <h1 align="center">Hi 👋, I'm Kiran Sateesh</h1>
 <h3 align="center">Aspiring AI/ML Engineer from India</h3>
 
