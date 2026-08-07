@@ -1,5 +1,5 @@
 # Kiran Ulavala
-<h1 align="center">Hi 👋, I'm Kiran Sateesh</h1>
+<h1 align="center">Hi 👋, I'm Kiran Ulavala</h1>
 <h3 align="center">Aspiring AI/ML Engineer from India</h3>
 
 ## 🏆 Badges
